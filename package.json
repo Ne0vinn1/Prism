@@ -1,0 +1,12 @@
+{
+  "name": "Prism",
+  "version": "0.1.0",
+  "description": "Discord bot Prism",
+  "main": "main.js",
+  "repository": "https://github.com/Ne0vinn1/Prism.git",
+  "author": "Ne0vinn1 <nevinn.games@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
